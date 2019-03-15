@@ -15,7 +15,7 @@
      (7) 待办todos数量显示
      (8) 所有todos，已完成todos，未完成todos筛选
  3. 开发环境中的数据来源于[NEI 接口管理平台](https://nei.netease.com/)。
-     ![](./NEI20190315112313.png)
+     ![](https://github.com/zxx0821/todoList/blob/master/yijihua_todo/src/assets/NEI20190315112313.png)
       线上环境中数据为[服务端数据库](http://148.70.150.147:8080)。
 
 
