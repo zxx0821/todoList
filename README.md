@@ -15,6 +15,7 @@
      (7) 待办todos数量显示
      (8) 所有todos，已完成todos，未完成todos筛选
  3. 开发环境中的数据来源于[NEI 接口管理平台](https://nei.netease.com/)。
+     ![](http://pic1.nipic.com/2008-12-30/200812308231244_2.jpg)
       线上环境中数据为[服务端数据库](http://148.70.150.147:8080)。
 
 
@@ -49,4 +50,4 @@ $ yarn install
 ```bash
 $ npm run dev
 ```
-这个时候所有请求就会发送到**NEI**提供的**mock**数据服务接口上，然后打开浏览器输入http://localhost:8080/就可以访问页面了。
+这个时候所有请求就会发送到**NEI**提供的**mock**数据服务接口上，然后打开浏览器输入(http://localhost:8080/)就可以访问页面了。
